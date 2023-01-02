@@ -10,6 +10,8 @@ I'm here on GitHub because it's where I keep my online repo's for the software I
 
 [^2]: I **really** like the new GitHub Projects; I think they've done a super job there and am looking forward to seeing how it develops. I use Jira and Azure DevOps too (professionally) but using GitHub Projects for my personal projects is both a no-brainer and a joy.
 
+[^3]: My profile picture - in case you're curious - is of me watching my footing on a walk in the Goyt Valley, not too far from where I live.
+
 <!--
 **marekwolski/marekwolski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
