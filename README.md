@@ -1,6 +1,6 @@
 ### Hello! 👋  I'm Marek and I'm an IT Solution Architect and Product "Own-ager".
 
-I caught the IT "bug" aged 12 when my Dad brought home one of the first Acorn Atoms. I've now been working professionally in the IT industry for more than 33 years (starting when mainframes were still going strong) and I've stuck to the "Technical" career paths for the most part.
+I caught the IT "bug" aged 12 when my Dad brought home one of the first Acorn Atoms. I've now been working professionally in the IT industry for more than 33 years (starting when mainframes were just about still going strong) and I've stuck to the "Technical" career paths for the most part.
 
 I work for Fujitsu here in the UK and am currently in a hybrid role that's mixing a bit of solution architecture with a lot of product owner and pieces of product manager thrown in for good measure. Which means I have a lot to do and a lot to learn :smile:!
 
