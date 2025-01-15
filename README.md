@@ -1,8 +1,8 @@
 ### Hello! 👋  I'm Marek and I'm an IT Solution Architect and Product Owner.
 
-I caught the IT "bug" aged 12 when my Dad brought home one of the first Acorn Atoms. I've now been working professionally in the IT industry for more than 30 years (starting when mainframes were just about still going strong) and I've stuck to the "Technical" career paths for the most part.
+I caught the IT "bug" aged 12 when my Dad brought home one of the first Acorn Atoms. I've now been working professionally in the IT industry for more than 30 years (starting when mainframes were just about still going strong) and I've stuck to the technical career path for the most part.
 
-I work for Fujitsu here in the UK and am currently in a hybrid role that's mixing a bit of solution architecture with a lot of product owner and pieces of product manager thrown in for good measure. Which means I have a lot to do and a lot to learn :smile:!
+I work for Fujitsu here in the UK and am currently chief architect for our biggest digital workplace contract for one of Fujitsu's biggest customers. Prior to this I was in a "hybrid" role that mixed a bit of solution architecture with a lot of product owner and pieces of product manager thrown in for good measure on an innovative new product for the logistics industry involving smart locks and blockchains.
 
 I'm here on GitHub because it's where I keep my online repo's for the software I write to try to get my Raspberry Pis to do interesting things[^1] (well, I think they're interesting :wink: ...). And I use GitHub Issues and Projects[^2] to manage my hobby projects. My Python skills are gradually improving (but a long way to go still) and I've been exploring Docker, InfluxDB and Redis too. Most of my repo's here are private - maybe one day I'll be brave enough to make some of them public and be even braver still to volunteer to contribute to other projects.
 
