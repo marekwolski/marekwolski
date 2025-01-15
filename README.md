@@ -4,7 +4,7 @@ I caught the IT "bug" aged 12 when my Dad brought home one of the first Acorn At
 
 I work for Fujitsu here in the UK and am currently chief architect for our biggest digital workplace contract for one of Fujitsu's biggest customers. Prior to this I was in a "hybrid" role that mixed a bit of solution architecture with a lot of product owner and pieces of product manager thrown in for good measure on an innovative new product for the logistics industry involving smart locks and blockchains.
 
-I'm here on GitHub because it's where I keep my online repo's for the software I write to try to get my Raspberry Pis to do interesting things[^1] (well, I think they're interesting :wink: ...). And I use GitHub Issues and Projects[^2] to manage my hobby projects. My Python skills are gradually improving (but a long way to go still) and I've been exploring Docker, InfluxDB and Redis too. Most of my repo's here are private - maybe one day I'll be brave enough to make some of them public and be even braver still to volunteer to contribute to other projects.
+I'm here on GitHub because it's where I keep my online repo's for the software I write to try to get my Raspberry Pis to do interesting things[^1] (well, I think they're interesting :wink: ...). And I use GitHub Issues and Projects[^2] to manage my hobby projects. My Python skills are gradually improving (slowly ...) and I've been exploring Docker, InfluxDB and Redis too. Most of my repo's here are private - maybe one day I'll be brave enough to make some of them public and be even braver still to volunteer to contribute to other projects.
 
 My profile picture - in case you're curious - is of me watching my footing on a walk in the Goyt Valley, not too far from where I live.
 
