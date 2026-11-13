@@ -1,6 +1,6 @@
-### Hello! 👋  I'm Marek and I'm an IT Enterprise Architect and Product Owner.
+### Hello! 👋  I'm Marek and I'm an IT Enterprise Architect and Product Owner (and Business Analyst now too).
 
-I caught the IT "bug" aged 12 when my Dad brought home one of the first Acorn Atoms. I've now been working professionally in the IT industry for more than 40 years (starting when mainframes were just about still going strong) and I've stuck to the technical career path for the most part.
+I caught the IT "bug" aged 12 when my Dad brought home one of the first Acorn Atoms. I've now been working professionally in the IT industry for more than 40 years (starting when mainframes were just about still going strong) and I've stuck to the technical career path for the most part. That said, I have recently put the "old dog, new tricks" thing to the test and after 18 months effort I am now a certified Business Analyst - which goes nicely alongside my TOGAF certification.
 
 I work for Fujitsu here in the UK and am currently chief architect for our biggest digital workplace contract for one of Fujitsu's biggest customers. Prior to this I was in a "hybrid" role that mixed a bit of solution architecture with a lot of product owner and pieces of product manager thrown in for good measure. I was part of the team developing an innovative new product for the logistics industry involving smart locks and blockchains.
 
